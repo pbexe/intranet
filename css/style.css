@@ -1,0 +1,18 @@
+.card-image{
+  height:180px;
+  overflow:hidden;
+}
+
+.logo{
+  height:200px;
+  padding:10px;
+}
+
+.nav{
+  margin-bottom: 100px;
+  height:130px;
+}
+
+#search{
+bottom: 25px;
+}
